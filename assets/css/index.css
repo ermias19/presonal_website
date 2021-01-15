@@ -1,0 +1,36 @@
+.jum1>.jumbotron{
+    background-image: url('../image/ermi_1.jpg');
+    object-fit: cover;
+    object-position: bottom ;
+    background-size: 100%;
+
+    
+    background-repeat: no-repeat;
+    
+    
+    
+}
+.nav-link{
+    
+    color:black;
+    text-decoration:none;
+    list-style-type: none;
+    padding: 0;
+}
+.nav-item{
+    
+    display: inline-block;
+
+}
+.jum1>.jumbotron>.display-4{
+    margin-left: 10rem;
+    color: rgb(80, 80, 80);
+}
+.jumbotron>.row>.col-md-6{
+    background-color: rgb(247, 86, 28);
+}
+.row>.col-md-6{
+    background-image: url('/assets/image/shoe_1.jpg');
+     background-size: 100%;
+}
+
