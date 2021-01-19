@@ -54,3 +54,6 @@ body {
 .btn {
    background-color:  #E45757;
 }
+ul>li{
+    text-align: center;
+}
