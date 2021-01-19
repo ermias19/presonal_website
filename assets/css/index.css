@@ -10,6 +10,13 @@
     
     
 }
+.jum1{
+    background-image: url('../image/ermi_1.jpg');
+    object-fit: cover;
+    object-position: bottom ;
+    background-size: 100%;
+
+}
 .nav-link{
     
     color:black;
@@ -29,8 +36,21 @@
 .jumbotron>.row>.col-md-6{
     background-color: rgb(247, 86, 28);
 }
-.row>.col-md-6{
-    background-image: url('/assets/image/shoe_1.jpg');
-     background-size: 100%;
+.row>.ermi{
+    background-color: rgb(247, 86, 28);
+    
+     
 }
 
+@font-face {
+  font-family: proximanova;
+  src: url("../image/font/proximanova-regular.otf") format("opentype");
+}
+
+body {
+  background-color: #fff;
+  font-family: 'proximanova';
+}
+.btn {
+   background-color:  #E45757;
+}
