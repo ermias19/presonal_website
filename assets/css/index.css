@@ -17,6 +17,7 @@
     background-size: 100%;
 
 }
+
 .nav-link{
     
     color:black;
@@ -54,6 +55,13 @@ body {
 .btn {
    background-color:  #E45757;
 }
-ul>li{
-    text-align: center;
+i:hover{
+    
+    color: white;
+    background-color: black;
+    
+}
+
+.jumbotron{
+    background-image: url('../image/main_pic.jpg');
 }
